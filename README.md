@@ -10,6 +10,12 @@
 - Support dark mode
 - Support dynamic types
 
+## Next
+If more time allowed, the following features could be implemented:
+ - Use user's location to detect default city
+ - City list + favourite cities which will include master/detail interface
+ - More detailed information like wind direction and speed
+
 ## Requirements
 - Xcode 11 beta 5
 
