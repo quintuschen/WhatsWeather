@@ -35,7 +35,7 @@ struct SummaryView: View {
                 Text(city.weather?.forecasts[0].summary[0].description ?? "--")
                     .allowsTightening(true)
             }.font(.subheadline)
-        }.shadow(radius: 5)
+        }
     }
 }
 
